@@ -1,2 +1,2 @@
-vghdgfhjhcnbvbfting
-bfbf
+Changes in text file
+ Removed some line
